@@ -12,10 +12,12 @@ A coding challenge for Bertram Labs
 ******************************
 
 Program prints current coffee prices, sizes, milk options and flavorings
+
 Program iterates through each employee in the roster
-    -if the employee is present, they can choose to have their usual or something different
-    -if usual is chosen, ingredients are printed along with price
-    -if usual is not chosen, components are stepped through to make a drink
+
+    *if the employee is present, they can choose to have their usual or something different
+    *if usual is chosen, ingredients are printed along with price
+    *if usual is not chosen, components are stepped through to make a drink
 Once all drinks are taken in, the most expensive coffee is tallied and displayed for bragging or shame accordingly
 The total price is also displayed
 The users present are then placed in a list and assigned a number
@@ -26,7 +28,11 @@ The top value of the shuffled list is then chosen as the employee to pay
 
 Usage:
 
-just press the run button and follow the prompts!
+Please follow this link to the REPL of this program:
+
+https://replit.com/@case85/coffeeroulette
+
+Just press the run button and follow the prompts!
 
 Assumptions:
 
