@@ -30,7 +30,8 @@ These numbers are then shuffled 3 times in the spirit of 3DES i.e. it doesnt do 
 The top value of the shuffled list is then chosen as the employee to pay
 
     *if the employee has already paid once that week, they will have a 1 attached to their name in the roster
-    *if their name comes up on top, a collision detection is printed, and shuffling will continue until the employee on top hasnt paid yet
+    *if their name comes up on top, a collision detection is printed
+    *shuffling will continue until the employee on top hasnt paid yet
 
 **Usage:**
 
