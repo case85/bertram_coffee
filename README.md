@@ -19,12 +19,16 @@ Program iterates through each employee in the roster
     *if usual is chosen, ingredients are printed along with price
     *if usual is not chosen, components are stepped through to make a drink
 Once all drinks are taken in, the most expensive coffee is tallied and displayed for bragging or shame accordingly
+
 The total price is also displayed
+
 The users present are then placed in a list and assigned a number
+
 These numbers are then shuffled 3 times in the spirit of 3DES i.e. it doesnt do anything but it helps the creator sleep at night
+
 The top value of the shuffled list is then chosen as the employee to pay
-    -if the employee has already paid once that week, they will have a 1 attached to their name in the roster
-    -if their name comes up on top, a collision detection is printed, and shuffling will continue until the employee on top hasnt paid yet
+    *if the employee has already paid once that week, they will have a 1 attached to their name in the roster
+    *if their name comes up on top, a collision detection is printed, and shuffling will continue until the employee on top hasnt paid yet
 
 Usage:
 
